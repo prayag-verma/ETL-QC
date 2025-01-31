@@ -47,16 +47,12 @@ ETLQC offers flexible pricing to suit different organizational needs:
 
 ## 👨‍💻 About the Developer
 
-ETLQC is developed by **[Prayag Verma](https://profile.aimtocode.com/)**, an independent data engineer and architect with over four years of experience.  
+ETLQC is developed by **[Prayag Verma](https://www.linkedin.com/in/prayagv/)**, an independent data engineer and architect with over four years of experience.  
 Prayag has worked with global companies like **Infosys, Amdocs, and Briston Infotech**, specializing in:
 
 - 🛠 **Data Engineering & ETL Development**
 - 🔄 **Data Orchestration & Processing**
 - 📦 **Data Warehousing & Big Data Solutions**
-
-### 📢 **Developers**  
-
-👤 **Prayag Verma**  
 
 🔗 **LinkedIn:**  → [linkedin.com/in/prayagv](https://www.linkedin.com/in/prayagv/)  
 🔗 **Portfolio:**  → [profile.aimtocode.com](https://profile.aimtocode.com/)
