@@ -59,7 +59,7 @@ Prayag has worked with global companies like **Infosys, Amdocs, and Briston Info
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. However, the ***source code*** is **proprietary** and ***not publicly accessible***. The **repository** serves as an ***informational reference*** for the project, and access to the source code is **restricted**.
+This project is licensed under the **LGPL-2.1 license**. However, the ***source code*** is **proprietary** and ***not publicly accessible***. The **repository** serves as an ***informational reference*** for the project, and access to the source code is **restricted**.
 
 ---
 
