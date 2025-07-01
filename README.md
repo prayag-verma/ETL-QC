@@ -55,7 +55,7 @@ Prayag has worked with global companies like **Infosys, Amdocs, and Briston Info
 - 📦 **Data Warehousing & Big Data Solutions**
 
 🔗 **LinkedIn:**  → [linkedin.com/in/prayagv](https://www.linkedin.com/in/prayagv/)  
-🔗 **Portfolio:**  → [profile.aimtocode.com](https://profile.aimtocode.com/)
+🔗 **Portfolio:**  → [prayagverma.com](https://prayagverma.com/)
 
 ## 📜 License
 
